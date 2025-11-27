@@ -17,7 +17,7 @@ Objectifs :
 - Python : pandas, numpy
 - Visualisation : plotly, matplotlib
 - Excel : vérifications, tri, formules
-- SQL (léger) : compréhension des jointures et clés
+- SQL : compréhension des jointures et clés
 
 ## Nettoyage et préparation des données
 - Conversion des colonnes au bon format (prix en string → float).
@@ -76,4 +76,5 @@ Résultat final :
 - notebooks/ : notebook d’analyse
 - data/ : échantillons ERP, Web, Liaison
 - README.md : documentation du projet
+
 
